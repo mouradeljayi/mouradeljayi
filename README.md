@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mourad EL Jayi</h1>
-<h3 align="left">A passionate Software Developer from Morocco</h3>
+<h3 align="left">A passionate Software Enginnering Student from Morocco</h3>
 
 - 🌱 I’m currently learning **Spring Boot & Angular**
 
