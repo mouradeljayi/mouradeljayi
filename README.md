@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Mourad EL Jayi</h1>
-<h3 align="left">A passionate Software Enginnering Student from Morocco</h3>
+<h3 align="left">A passionate Software Enginner from Morocco</h3>
 
-- 🌱 I’m currently learning **Spring Boot & Angular**
+- 💬 Ask me about **PHP, JS/TS, Symfony & Angular**
 
-- 💬 Ask me about **PHP, Laravel & Vue JS**
-
-- 📫 How to reach me **mouradeljayi98@gmail.com**
+- 📫 How to reach me **murad.eljayi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
