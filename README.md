@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mourad EL Jayi</h1>
 <h3 align="left">A passionate Software Enginner from Morocco</h3>
 
-- 💬 Ask me about **PHP, JS/TS, Symfony & Angular**
+- 💬 Ask me about **PHP, JS/TS, VueJS & Angular**
 
 - 📫 How to reach me **murad.eljayi@gmail.com**
 
